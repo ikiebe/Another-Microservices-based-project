@@ -1,0 +1,9 @@
+# .gitignore
+venv/
+__pycache__/
+*.sqlite3
+.env
+*.pyc
+.DS_Store
+media/
+staticfiles/
